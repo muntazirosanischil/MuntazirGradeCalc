@@ -1,0 +1,62 @@
+#dogName {
+    font-size: 23px;
+    margin-right: 5px;
+    margin-top: 20px;
+}
+
+#sect1, #sect2 {
+    text-align: center;
+}
+
+body {
+    background-color: #ba27c3;
+}
+
+#table2 {
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    width:100px;
+    font-size: 23px;
+    padding: 20px;
+}
+
+#table1 {
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    width:100px;
+    border: 1px;
+    font-size: 23px;
+}
+
+#currentGrade {
+    font-size: 30px;
+}
+#sect1 {
+    position: relative;
+    top: 35px;
+}
+#sect2 {
+    position: relative;
+    top: 70px;
+}
+
+#userNeed, #grade {
+    position: relative;
+    top: 30px;
+    font-size: 25px;
+    font-family: Verdana;
+}
+
+.w3-carter {
+    color: lightgreen;
+    font-family: 'Carter One';
+    font-weight: bold;
+    font-style: italic;
+}
+
+#addButton {
+    position: relative;
+    bottom: 5px;
+}
